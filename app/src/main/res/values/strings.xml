@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Note app</string>
+    <string name="DELETE_DATA">Delete all data</string>
+    <string name="CREATE_DATA">Create sample data</string>
+    <string name="all_deleted">Deleted</string>
+    <string name="are_you_sure">are you sure?</string>
+    <string name="newNote">INSERT NEW NOTE</string>
+    <string name="note_Updated">Note Updated</string>
+    <string name="Note_Updated">Note Updated</string>
+    <string name="deleted_Icon">delete</string>
+
+</resources>
